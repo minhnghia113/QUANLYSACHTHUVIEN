@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.time.LocalDate;
 
-public class Tuan5 {
+public class tuan5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int choice;
